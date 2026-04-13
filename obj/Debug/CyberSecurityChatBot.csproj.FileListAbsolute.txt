@@ -1,0 +1,7 @@
+C:\Users\kagin\source\repos\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe.config
+C:\Users\kagin\source\repos\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe
+C:\Users\kagin\source\repos\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.pdb
+C:\Users\kagin\source\repos\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.AssemblyReference.cache
+C:\Users\kagin\source\repos\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.CoreCompileInputs.cache
+C:\Users\kagin\source\repos\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.exe
+C:\Users\kagin\source\repos\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.pdb
