@@ -46,6 +46,12 @@ CyberSecurityChatBot/
 └── .github/
     └── workflows/
         └── dotnet.yml
+
+## References
+- Microsoft Docs: .NET Documentation. Available at: https://learn.microsoft.com/dotnet/ (Accessed: 13 April 2026).
+- GitHub Docs: GitHub Actions Documentation. Available at: https://docs.github.com/actions (Accessed: 13 April 2026).
+- actions/setup-dotnet. GitHub. Available at: https://github.com/actions/setup-dotnet (Accessed: 13 April 2026).
+- Bro Code (2022) *C# Tutorial for Beginners - Full Course*. YouTube. Available at: https://www.youtube.com/watch?v=r3CExhZgZV8&list=PLZPZq0r_RZOPNy28FDBys3GVP2LiaIyP_ (Accessed: 13 April 2026).
         
 AuthorFred junior Kago Nonkonyana
 Diploma in Information Technology (Software Development)
