@@ -1,4 +1,4 @@
-# CyberSecurityChatBot 🔐
+# CyberSecurityChatBot 
 
 ![.NET Build](https://github.com/fr3ddie-rsa/CyberSecurityChatBot/actions/workflows/dotnet.yml/badge.svg)
 
